@@ -160,7 +160,6 @@ Ensures low thermal resistance and stable heat transfer.
 ---
 
 ## 📄 File Information
-**Format:** Markdown (.md)  
 **Version:** v1.0 — November 2025  
 **License:** CC BY-NC 4.0  
 **Tags:** silicone heater, thermal pad, process heating, industrial equipment  
