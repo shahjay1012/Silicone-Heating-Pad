@@ -1,6 +1,6 @@
 # 8" x 10" Silicone Heating Pad — Technical Product Documentation
 
-🔥 **Uniform Surface Heating | Flexible Silicone | Industrial-Grade | PID-Ready**
+**Uniform Surface Heating | Flexible Silicone | Industrial-Grade | PID-Ready**
 
 ---
 
