@@ -174,7 +174,7 @@ This ensures minimal thermal resistance and rapid heat stabilization.
 
 ---
 
-## 👤 Author
+## Author
 **Jaykumar Shah**  
 📧 shahjay1012@gmail.com  
-🔗 [LinkedIn] | [GitHub]
+🔗 [[LinkedIn](https://www.linkedin.com/in/jay-shah-64b98078/)] | [[GitHub](https://github.com/shahjay1012)]
